@@ -107,5 +107,20 @@ Or By the Image Preview
 
 ```
 
+SomeLinks By Figma 
+
+
+For Dooper UI
+
+```
+https://www.figma.com/design/jZtye5hk3NWZlOmhpHrj2b/Upcoming?node-id=0-1&t=2hF5Oq4Z4q5DFlx5-1
+```
+
+For Wurk Book Post
+
+
+```
+https://www.figma.com/design/p5RgqcixW2DNC0Pe6o2vJ1/Prototype?node-id=0-1&t=ZE6lui9776VMA3gR-1
+```
 
 
