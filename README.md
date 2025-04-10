@@ -10,7 +10,7 @@ For Logo Preview Direct With SVG Code
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centered SVG</title>
+  <title>SVG Preview</title>
   <style>
     /* Center the container in the viewport */
     html, body {
@@ -67,7 +67,7 @@ Or By the Image Preview
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Centered SVG Image</title>
+  <title>SVG Preview</title>
   <style>
     /* Center the container in the viewport */
     html, body {
