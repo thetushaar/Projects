@@ -12,7 +12,7 @@ For Logo Preview Direct With SVG Code
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SVG Preview</title>
   <style>
-    /* Center the container in the viewport */
+
     html, body {
       height: 100%;
       margin: 0;
@@ -22,7 +22,6 @@ For Logo Preview Direct With SVG Code
       background-color: #000;
     }
 
-    /* Container to hold the SVG */
     .svg-container {
       display: flex;
       justify-content: center;
@@ -31,7 +30,6 @@ For Logo Preview Direct With SVG Code
       height: 100%;
     }
 
-    /* SVG properties to keep the original size and be responsive */
     svg {
       width: auto;
       height: auto;
@@ -43,8 +41,6 @@ For Logo Preview Direct With SVG Code
 <body>
   <div class="svg-container">
     <!-- Your SVG code here (this is an example SVG) -->
-
-
 
 
 
@@ -69,7 +65,7 @@ Or By the Image Preview
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SVG Preview</title>
   <style>
-    /* Center the container in the viewport */
+
     html, body {
       height: 100%;
       margin: 0;
@@ -79,7 +75,7 @@ Or By the Image Preview
       background-color: #000;
     }
 
-    /* Container for the image */
+
     .image-container {
       display: flex;
       justify-content: center;
@@ -88,7 +84,7 @@ Or By the Image Preview
       height: 100%;
     }
 
-    /* Ensures the image stays responsive while keeping its aspect ratio */
+
     img {
       width: auto;
       height: auto;
@@ -100,7 +96,11 @@ Or By the Image Preview
 <body>
   <div class="image-container">
     <!-- Use your SVG file in an <img> tag -->
+
+
     <img src="   " alt="SVG Image">
+
+
   </div>
 </body>
 </html>
